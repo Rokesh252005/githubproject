@@ -81,7 +81,7 @@ public class CycleRent {
 	        Bike bike = new Bike();
 
 	        while (true) {
-	            System.out.println("\nWelcome to DK Rental Shop");
+	            System.out.println("\nWelcome to SR Rental Shop");
 	            System.out.println("Choose your vehicle:\n1. Car\n2. Bike\n3. Exit");
 	            int choice = sc.nextInt();
 
